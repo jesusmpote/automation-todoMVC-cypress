@@ -2,8 +2,8 @@
 const { defineConfig } = require('cypress')
 
 module.exports = defineConfig({
-  viewportWidth: 1644,
-  viewportHeight: 961,
+  viewportWidth: 1311,
+  viewportHeight: 929,
   
   env: {
     MAILOSAUR_API_KEY : "WGm6w9QKScavcduN",
